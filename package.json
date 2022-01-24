@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-test-with-vows",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://Mineru98: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@github.com/Mineru98/nodejs-test-with-vows",
+  "author": "iamiks <rmstjr1030@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vows": "^0.8.3"
+  }
+}
